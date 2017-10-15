@@ -109,6 +109,3 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
 
-=======
-# Fifth and final project for Udacity's Self Driving Car Nanodegree - Term 1
->>>>>>> f5a5d2f846843a6718e0bdd6291ab9d48692158b
