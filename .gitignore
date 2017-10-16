@@ -2,7 +2,6 @@
 data/
 images/
 images_source_zip/
-*.mp4
 *.doc
 *.docx
 *.zip
